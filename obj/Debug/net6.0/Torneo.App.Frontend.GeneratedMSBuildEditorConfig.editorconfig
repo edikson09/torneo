@@ -1,0 +1,140 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Torneo.App.Frontend
+build_property.RootNamespace = Torneo.App.Frontend
+build_property.ProjectDir = C:\Users\57315\Documents\Torneo g26\Torneo-grupo4\Torneo.App.Frontend\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\57315\Documents\Torneo g26\Torneo-grupo4\Torneo.App.Frontend
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/DTs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRFRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/DTs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRFRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/DTs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRFRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/DTs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRFRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Equipos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Equipos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Equipos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Equipos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXF1aXBvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Jugadores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Jugadores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Jugadores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Jugadores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnVnYWRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Municipios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Municipios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Municipios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Municipios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVuaWNpcGlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Partidos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Partidos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Partidos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Partidos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGlkb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Posiciones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Posiciones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Posiciones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Posiciones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9zaWNpb25lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/57315/Documents/Torneo g26/Torneo-grupo4/Torneo.App.Frontend/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gankhwiqtj
